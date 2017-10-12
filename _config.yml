@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: jesskhedges@icloud.com
 copyright_name: jesshedges
 description: > # this means to ignore newlines until "baseurl:"
-  road to developer
+  you had me at "Hello World!"
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: jesskhedges
 github_username:  jesshedges
